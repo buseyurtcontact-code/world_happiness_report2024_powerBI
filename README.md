@@ -1,5 +1,61 @@
 🌍 World Happiness Report 2024 — Power BI Analysis
 
+Course: Data Visualization Methods — Midterm Project  
+Student: Buse Yurt · Ege University, Faculty of Science – Department of Statistics  
+Tool: Microsoft Power BI  
+Dataset: World Happiness Report 2024  
+
+---
+
+📁 Dataset
+World Happiness Report 2024 (Yearly Updated)  
+🔗 Kaggle Dataset  
+Contains happiness scores (Ladder Score) of countries and key contributing factors:  
+`GDP per capita`, `Social Support`, `Healthy Life Expectancy`, `Freedom to Make Life Choices`, `Generosity`, `Perception of Corruption`, `Dystopia + Residual`
+
+---
+
+🎯 Project Objective
+This project analyzes global happiness levels using the 2024 World Happiness Report dataset. The relationships between happiness and socioeconomic drivers—such as income, social support, freedom, corruption perception, and generosity—are evaluated across 7 distinct Power BI visualization techniques.
+
+---
+
+📊 Visualizations & Key Insights
+
+1. 📊 Bar Chart — Social Support & Happiness
+Analyzes the relationship between social support and happiness scores at the country level.  
+Key Insight: As social support increases, the happiness score increases correspondingly — demonstrating a strong positive correlation.
+
+2. 🥧 Pie Chart — Perception of Corruption & Regional Distribution
+Segments corruption perception and happiness scores by region. Power BI's drill-down capability allows seamless navigation from regional to country-level detail.  
+Key Insight: Regions with high perceived corruption consistently exhibit lower overall happiness scores.
+
+3. 🍩 Donut Chart — Freedom & Life Satisfaction
+Compares Ladder Score against `Freedom to Make Life Choices` across regions.  
+Key Insight: Western Europe and North America score high in both metrics, whereas Sub-Saharan Africa scores low in both. Freedom aligns closely with economic prosperity, education, and healthcare quality.
+
+4. 🔵 Scatter Plot — Income & Happiness
+Visualizes the relationship between `Log GDP per capita` and `Ladder Score`.  
+Key Insight: Higher income trends positively with higher happiness; however, the strength of this relationship varies by region, highlighting the impact of cultural, social, and political factors.
+
+5. 🌳 Tree Map — Health & Happiness
+Examines the effect of `Healthy Life Expectancy` on happiness.  
+Key Insight: Healthy life expectancy correlates strongly with happiness; however, regional exceptions emphasize the non-material, socio-cultural dimensions of well-being.
+
+6. 🗺️ Map — Generosity & Happiness
+Maps global happiness scores alongside generosity values.  
+Key Insight: Happier countries generally report higher generosity scores. However, correlation does not equal causation—underlying factors like economic stability and social safety nets mediate this dynamic.
+
+7. 🗺️ Filled Map — Dystopia + Residual
+Visualizes `Ladder Score` alongside `Dystopia + Residual` metrics using a choropleth filled map.
+
+> **What is Dystopia + Residual?**  
+> It represents the unexplained component of happiness that cannot be attributed to measured factors (income, health, etc.). For instance, if a country's total happiness score is 7.5 and the sum of measured factors equals 6.0, the remaining 1.5 is captured by this residual component.
+
+Key Insight: Nordic countries like Finland and Denmark score exceptionally high in both indicators—proving that alongside material wealth, intangible factors such as personal safety, individual freedom, and institutional trust contribute heavily to happiness.
+
+🌍 World Happiness Report 2024 — Power BI Analysis
+
 Course: Veri Görselleştirme Yöntemleri — Vize Ödevi
 Student: Buse Yurt · Ege University, Faculty of Science – Statistics
 Tool: Microsoft Power BI
