@@ -1,4 +1,4 @@
-🌍 World Happiness Report 2024 — Power BI Analysis
+🌍 World Happiness Report 2024 — Power BI Analysis (English)
 
 Course: Data Visualization Methods — Midterm Project  
 Student: Buse Yurt · Ege University, Faculty of Science – Department of Statistics  
@@ -54,7 +54,7 @@ Visualizes `Ladder Score` alongside `Dystopia + Residual` metrics using a chorop
 
 Key Insight: Nordic countries like Finland and Denmark score exceptionally high in both indicators—proving that alongside material wealth, intangible factors such as personal safety, individual freedom, and institutional trust contribute heavily to happiness.
 
-🌍 World Happiness Report 2024 — Power BI Analysis
+🌍 World Happiness Report 2024 — Power BI Analysis (Turkish)
 
 Course: Veri Görselleştirme Yöntemleri — Vize Ödevi
 Student: Buse Yurt · Ege University, Faculty of Science – Statistics
